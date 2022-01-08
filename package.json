@@ -1,8 +1,15 @@
 {
-  "name": "budget-app",
+  "name": "special-parakeet",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -10,18 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/klynmc/special-parakeet.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/klynmc/special-parakeet/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
-  "dependencies": {
-    "compression": "^1.7.4",
-    "express": "^4.17.1",
-    "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
-  }
+  "homepage": "https://github.com/klynmc/special-parakeet#readme"
 }
