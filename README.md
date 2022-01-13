@@ -1,7 +1,7 @@
 # Budget Tracker
 
 ## Purpose
-So users can track their spending both online and offline
+So users can conveniently track their spending both online and offline
 
 ## Website
 https://enigmatic-plateau-40671.herokuapp.com
